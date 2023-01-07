@@ -1,0 +1,84 @@
+
+
+.bg-img {
+    background-image: url('images/banner/banner1.png');
+    height: 808px;
+    margin-bottom: 100px;
+}
+.text {
+ text-align: right;
+ padding: 300px 100px 300px 1000px;
+}
+
+.btn {
+    height: 50px;
+    width: 150px;
+    background-color: rgb(255, 193, 8);
+    border-radius: 5px;
+}
+
+/* this is the secend side */
+
+section {
+    display:flex ;
+    
+    text-align: left;
+    margin-bottom: 100px;
+}
+
+.re-text {
+    text-align: center;
+    padding: 250px;
+    font-size: 24px;
+    font-family: 'Work Sans';
+    height: 10px;
+}
+
+.li {
+   
+}
+
+/* this is the third part */
+
+
+
+.h1{
+    text-align: center;
+    margin-bottom: 30px;
+   
+    
+}
+
+.icon {
+    display: flex;
+    
+   
+}
+  .img {
+   margin-right:130px;
+   margin-left:130px ;
+   margin-top: 100px;
+   
+  }
+
+  /* this is the 4th position */
+
+
+  .bg-image {
+    background-image:linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%),url('images/watch.png');
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2222.26px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+    border-radius: 8px;
+ }
+
+ .position {
+    margin: 100px 300px 0px 50px;
+ }
+
+
+
+
