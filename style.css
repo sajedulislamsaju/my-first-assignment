@@ -79,6 +79,22 @@ section {
     margin: 100px 300px 0px 50px;
  }
 
+ /* this is the footer side */
+
+ .fot {
+    display: flex;
+    width: 1600px;
+    height: 577px;
+    left: 0px;
+    top: 2652.26px;
+    background: #151414;
+    
+ }
+.asd {
+    color: #F8F8F8;
+    margin: 200px;
+
+}
 
 
 
